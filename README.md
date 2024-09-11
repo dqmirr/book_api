@@ -111,7 +111,3 @@ Gunakan middleware untuk memeriksa token JWT sebelum mengizinkan akses ke endpoi
 
 # Soal 6: File Handling
 Deskripsi: Buatlah sebuah File CSV pasangan key value kemudian parse file tersebut menggunakan javascript. Setelah itu buat endpoint Upload untuk mengunggah file tersebut dan Retrieve File yang sudah di upload.
-
-# Pengumpulan Tugas Backend-Test
-1. Pengumpulan tugas paling lambat pada hari Rabu, 11 September 2024 Pukul 14.00 WIB.
-2. Pengumpulan tugas dengan cara mengirimkan link repository tugas yang sudah di kerjakan ke nomor 085710574645
